@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Litforge Library for LLaMA Model
 
 Litforge is a lightweight Python library that provides a custom transformer implementation inspired by LLaMA. It leverages Hugging Face’s model hub to load pre-trained weights, configurations, and tokenizers, while implementing a simplified transformer forward pass using PyTorch. Designed to be modular and extensible, Litforge is easy to integrate into your projects for inference, debugging, or internal analysis.
@@ -105,8 +104,3 @@ Repository: [https://github.com/NekoTensor/litforge](https://github.com/NekoTens
 
 
 
-
-=======
-# litforge
-Litforge is a lightweight Python library that demonstrates a simplified implementation of a transformer model inspired by LLaMA. 
->>>>>>> e83116846301a3a768912b9be9d204ccde2d9ef3
