@@ -83,7 +83,7 @@ Use this configuration to guide architecture adjustments or debug issues related
 
 ## Repository Structure
 
-- **litforge.py** – Contains the `SimpleLLM` class implementation.
+- **litforge.py** – Contains the `LitForge` class implementation.
 - **notebook.ipynb** – A Google Colab notebook demonstrating how to authenticate, load a model, visualize internal parameters, and use the library.
 - **README.md** – This file.
 
