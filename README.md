@@ -22,7 +22,7 @@ Litforge is a lightweight Python library that provides a custom transformer impl
 
 ## Installation
 
-### Option 1: Via pip (if published on PyPI)
+### Option 1: Via pip 
 ```bash
 pip install litforge
 
