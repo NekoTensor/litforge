@@ -11,5 +11,5 @@ setup(
     description="A DIY Python library for text generation using LLaMA and PyTorch.",
     author="Amey Kamble",
     author_email="nekotensor@gmail.com",
-    url="https://github.com//litforge",
+    url="https://github.com/NekoTensor/litforge",
 )
